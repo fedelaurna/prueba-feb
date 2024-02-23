@@ -1,0 +1,13 @@
+img{
+ width: 250px;   
+ max-height: 250px;
+}
+h1{
+  text-align: center;  
+  color: blue;
+}
+button{
+    background-color: burlywood;
+    width: 250px;
+    max-height: 150px;
+}
